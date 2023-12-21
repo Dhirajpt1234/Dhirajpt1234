@@ -17,7 +17,9 @@
 
 - 🌱 I’m currently learning **Full stack web development.**
 
+<!--
 - 👨‍💻 All of my projects are available at [https://dhirajpt1234.github.io/](https://dhirajpt1234.github.io/)
+-->
 
 - 💬 Ask me about **MERN, competitive programming and for engineering jokes..**
 
