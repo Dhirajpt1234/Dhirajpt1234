@@ -21,7 +21,7 @@
 - 👨‍💻 All of my projects are available at [https://dhirajpt1234.github.io/](https://dhirajpt1234.github.io/)
 -->
 
-- 💬 Ask me about **MERN, competitive programming and for engineering jokes..**
+- 💬 Ask me about **MERN, competitive programming and engineering jokes..**
 
 - 📫 How to reach me **dpthorat85@gmail.com**
 
