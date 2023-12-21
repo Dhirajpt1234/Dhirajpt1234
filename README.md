@@ -1,4 +1,10 @@
+
+<!---
+
 [![MasterHead](https://media0.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/200w.webp?cid=ecf05e47t2kf5y4spkfh4cd0e9b49p43q4zwh1ibmkl2f3zt&ep=v1_gifs_search&rid=200w.webp&ct=g)](https://dhirajpt1234.io)
+
+-->
+
 
 <h1 align="center">Hi 👋, I'm Dhiraj P Thorat ✨</h1>
 <h3 align="center">A passionate and ambitious programmer.🙃</h3>
